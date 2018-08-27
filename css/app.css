@@ -2,3 +2,7 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+.nav-link:hover{
+  background-color: #9e9e9e!important;
+  color: #000000!important;
+}
